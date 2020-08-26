@@ -1,10 +1,11 @@
-### Hi there 👋
+# Hi, I'm Wojtek 👋
+
+
+I am a young passionate engineer who is not afraid to learn and get to know new technologies and also likes this process. 
+
+Being able to think of ways to solve a problem and create things useful for other people gives me a sense of fulfillment. I consider it the most important because applying this mindset in different projects only requires the use of different tools.
 
 <!--
-**wszczawinski/wszczawinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
