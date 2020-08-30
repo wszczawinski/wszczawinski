@@ -12,26 +12,35 @@ Being able to think of ways to solve a problem and create things useful for othe
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
+![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
 ![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=ffffff)
 
-### 🌱 I’m currently learning:
+### 🌱 Currently learning:
 
+![MachineLearning](https://img.shields.io/badge/-🤖MachineLearning-0790C0?style=flat) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff) -->
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff) -->
+
+### 📚 Courses that I enjoyed and recommend:
+
+<a href="https://justjavascript.com/" target="blank">Just JavaScript - Dan Abramov</a> <br/>
+<a href="https://javascript30.com/" target="blank">JavaScript30 - Wes Bos</a> <br/>
+<a href="https://www.roadtoreact.com/" target="blank">Road to React - Robin Wieruch</a> <br/>
+<a href="https://www.coursera.org/learn/machine-learning" target="blank">Machine Learning - Stanford University</a>
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/wszczawinski">
+<a href="https://www.linkedin.com/in/wszczawinski" targer="blank">
   <img src="https://img.shields.io/badge/-LinkedIn-success?style=flat&logo=linkedin&logoColor=ffffff" />
 </a>
 <a href="mailto:szczawinski.wojtek@gmail.com">
@@ -40,11 +49,11 @@ Being able to think of ways to solve a problem and create things useful for othe
 
 ### 📈 Github stats:
 
-<a href="#">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wszczawinski&hide=stars&count_private=true&show_icons=true&icon_color=28a745&line_height=34" alt="Wojtek's GitHub Stats" />
 </a>
 
-<a href="#">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wszczawinski&hide=jupyter%20notebook&hide_title=True&line_height=27" alt="Wojtek's GitHub Stats" />
 </a>
 
