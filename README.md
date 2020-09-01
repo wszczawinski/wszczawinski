@@ -6,20 +6,22 @@ Being able to think of ways to solve a problem and create things useful for othe
 
 ### ⚡ Technologies & Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6+-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
+
+![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
 ![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
-
+![Brave](https://img.shields.io/badge/-Brave-fb542b?style=flat&logo=brave&logoColor=ffffff)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
@@ -27,9 +29,9 @@ Being able to think of ways to solve a problem and create things useful for othe
 
 ### 🌱 Currently learning:
 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 ![MachineLearning](https://img.shields.io/badge/-🤖MachineLearning-0790C0?style=flat) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff) -->
+<!-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff) -->
 
 ### 📚 Courses that I enjoyed and recommend:
 
@@ -45,6 +47,9 @@ Being able to think of ways to solve a problem and create things useful for othe
 </a>
 <a href="mailto:szczawinski.wojtek@gmail.com">
   <img src="https://img.shields.io/badge/-Mail-success?style=flat&logo=gmail&logoColor=ffffff" />
+</a>
+<a href="https://wojtekszczawinski.site/">
+  <img src="https://img.shields.io/badge/-Website-success?style=flat&logo=brave&logoColor=ffffff" />
 </a>
 
 ### 📈 Github stats:
