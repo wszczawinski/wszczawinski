@@ -12,7 +12,7 @@ Being able to think of ways to solve a problem and create things useful for othe
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Scss/Sass-cc6699?style=flat&logo=sass&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
@@ -29,15 +29,17 @@ Being able to think of ways to solve a problem and create things useful for othe
 
 ### 🌱 Currently learning:
 
+![MachineLearning](https://img.shields.io/badge/-🤖%20MachineLearning-0790C0?style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
-![MachineLearning](https://img.shields.io/badge/-🤖MachineLearning-0790C0?style=flat) 
 <!-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff) -->
 
 ### 📚 Courses that I enjoyed and recommend:
 
 <a href="https://justjavascript.com/" target="blank">Just JavaScript - Dan Abramov</a> <br/>
+<a href="https://exercism.io/tracks/javascript" target="blank">Exercism.io - JavaScript Track</a> <br/>
 <a href="https://javascript30.com/" target="blank">JavaScript30 - Wes Bos</a> <br/>
 <a href="https://www.roadtoreact.com/" target="blank">Road to React - Robin Wieruch</a> <br/>
+<a href="https://missing.csail.mit.edu/" target="blank">CS Missing Semester - MIT</a>
 <a href="https://www.coursera.org/learn/machine-learning" target="blank">Machine Learning - Stanford University</a>
 
 ### 📫 How to reach me:
