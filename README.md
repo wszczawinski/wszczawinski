@@ -17,24 +17,28 @@ Being able to think of ways to solve a problem and create things useful for othe
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
 
+
+![Linux](https://img.shields.io/badge/-Linux-185886?style=flat&logo=linux&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
 ![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
+![Anaconda](https://img.shields.io/badge/-Anaconda-43b02a?style=flat&logo=anaconda&logoColor=ffffff)
 ![Brave](https://img.shields.io/badge/-Brave-fb542b?style=flat&logo=brave&logoColor=ffffff)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
+![R](https://img.shields.io/badge/-R-3776AB?style=flat&logo=r&logoColor=ffffff)
 ![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=ffffff)
 
 ### 🌱 Currently learning:
 
 ![MachineLearning](https://img.shields.io/badge/-🤖%20MachineLearning-0790C0?style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
-<!-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff) -->
 
 ### 📚 Courses that I enjoyed and recommend:
 
+<a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/" target="blank">Hands-On Machine Learning - Aurélien Géron</a> <br/>
 <a href="https://justjavascript.com/" target="blank">Just JavaScript - Dan Abramov</a> <br/>
 <a href="https://exercism.io/tracks/javascript" target="blank">Exercism.io - JavaScript Track</a> <br/>
 <a href="https://javascript30.com/" target="blank">JavaScript30 - Wes Bos</a> <br/>
