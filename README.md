@@ -1,4 +1,4 @@
-# <img width=50 src="https://github.com/wszczawinski/wszczawinski.github.io/blob/master/src/img/deer_logo.png" /> Hi, I'm Wojtek!
+# <img width=50 src="https://github.com/wszczawinski/wszczawinski.github.io/blob/master/src/img/deer_logo_white.png" /> Hi, I'm Wojtek!
 
 I am a young passionate engineer who is not afraid to learn and get to know new technologies and also likes this process.
 
@@ -16,25 +16,24 @@ Being able to think of ways to solve a problem and create things useful for othe
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
-
-
-![Linux](https://img.shields.io/badge/-Linux-185886?style=flat&logo=linux&logoColor=ffffff)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
-![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
-![Anaconda](https://img.shields.io/badge/-Anaconda-43b02a?style=flat&logo=anaconda&logoColor=ffffff)
-![Brave](https://img.shields.io/badge/-Brave-fb542b?style=flat&logo=brave&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
+![Anaconda](https://img.shields.io/badge/-Anaconda-43b02a?style=flat&logo=anaconda&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
 ![R](https://img.shields.io/badge/-R-3776AB?style=flat&logo=r&logoColor=ffffff)
+
+![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-185886?style=flat&logo=linux&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
+![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
 ![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=ffffff)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff)
 
 ### 🌱 Currently learning:
 
 ![MachineLearning](https://img.shields.io/badge/-🤖%20MachineLearning-0790C0?style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 
 ### 📚 Courses that I enjoyed and recommend:
 
@@ -54,27 +53,27 @@ Being able to think of ways to solve a problem and create things useful for othe
 <a href="mailto:szczawinski.wojtek@gmail.com">
   <img src="https://img.shields.io/badge/-Mail-success?style=flat&logo=gmail&logoColor=ffffff" />
 </a>
-<a href="https://wojtekszczawinski.site/">
+<a href="https://https://wszczawinski.github.io//">
   <img src="https://img.shields.io/badge/-Website-success?style=flat&logo=brave&logoColor=ffffff" />
 </a>
 
-### 📈 Github stats:
+
+###
+
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wszczawinski&hide=stars&count_private=true&show_icons=true&icon_color=28a745&line_height=34" alt="Wojtek's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wszczawinski&hide=stars&theme=dark&include_all_commits=true&custom_title=📈%20Github%20Stats:&hide_border=true&count_private=true&show_icons=true&icon_color=28a745&line_height=42" alt="Wojtek's GitHub Stats" />
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wszczawinski&hide=jupyter%20notebook&hide_title=True&line_height=27" alt="Wojtek's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wszczawinski&theme=dark&hide_border=true&hide=jupyter%20notebook&hide_title=True&line_height=27" alt="Wojtek's GitHub Stats" />
 </a>
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
