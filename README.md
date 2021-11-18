@@ -19,31 +19,36 @@ Being able to think of ways to solve a problem and create things useful for othe
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![Anaconda](https://img.shields.io/badge/-Anaconda-43b02a?style=flat&logo=anaconda&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-Pandas-130654?style=flat&logo=pandas&logoColor=ffffff)
+![Plotly](https://img.shields.io/badge/-Plotly-20293d?style=flat&logo=plotly&logoColor=ffffff)
+![Conda](https://img.shields.io/badge/-Conda-43b02a?style=flat&logo=anaconda&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
 ![R](https://img.shields.io/badge/-R-3776AB?style=flat&logo=r&logoColor=ffffff)
 
-![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
+
 ![Linux](https://img.shields.io/badge/-Linux-185886?style=flat&logo=linux&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
 ![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logo=docker&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
 ![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff)
 
-### 🌱 Currently learning:
+<!-- ![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff) -->
 
-![MachineLearning](https://img.shields.io/badge/-🤖%20MachineLearning-0790C0?style=flat)
+<!-- ### 🌱 Currently learning:
+
+![MachineLearning](https://img.shields.io/badge/-🤖%20MachineLearning-0790C0?style=flat) -->
 
 ### 📚 Courses that I enjoyed and recommend:
 
-<a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/" target="blank">Hands-On Machine Learning - Aurélien Géron</a> <br/>
 <a href="https://justjavascript.com/" target="blank">Just JavaScript - Dan Abramov</a> <br/>
 <a href="https://exercism.io/tracks/javascript" target="blank">Exercism.io - JavaScript Track</a> <br/>
 <a href="https://javascript30.com/" target="blank">JavaScript30 - Wes Bos</a> <br/>
 <a href="https://www.roadtoreact.com/" target="blank">Road to React - Robin Wieruch</a> <br/>
 <a href="https://missing.csail.mit.edu/" target="blank">CS Missing Semester - MIT</a>
 <a href="https://www.coursera.org/learn/machine-learning" target="blank">Machine Learning - Stanford University</a>
+<a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/" target="blank">Hands-On Machine Learning - Aurélien Géron</a> <br/>
 
 ### 📫 How to reach me:
 
@@ -66,7 +71,7 @@ Being able to think of ways to solve a problem and create things useful for othe
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wszczawinski&theme=dark&hide_border=true&hide=jupyter%20notebook&hide_title=True&line_height=27" alt="Wojtek's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wszczawinski&theme=dark&hide_border=true&hide=jupyter%20notebook,html&hide_title=True&line_height=27" alt="Wojtek's GitHub Stats" />
 </a>
 
 <!--
@@ -74,6 +79,5 @@ Being able to think of ways to solve a problem and create things useful for othe
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
