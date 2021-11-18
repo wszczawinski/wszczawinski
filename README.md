@@ -17,6 +17,8 @@ Being able to think of ways to solve a problem and create things useful for othe
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-Pandas-130654?style=flat&logo=pandas&logoColor=ffffff)
@@ -24,19 +26,22 @@ Being able to think of ways to solve a problem and create things useful for othe
 ![Conda](https://img.shields.io/badge/-Conda-43b02a?style=flat&logo=anaconda&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff)
 ![R](https://img.shields.io/badge/-R-3776AB?style=flat&logo=r&logoColor=ffffff)
+![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=ffffff)
 
 
 ![Linux](https://img.shields.io/badge/-Linux-185886?style=flat&logo=linux&logoColor=ffffff)
+![Raspberry](https://img.shields.io/badge/-RaspberryPi-CD2355?style=flat&logo=raspberrypi&logoColor=ffffff)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
 ![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logo=docker&logoColor=ffffff)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=ffffff)
-![Octave](https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff)
 
-<!-- ![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff) -->
+<!-- 
+![VSCode](https://img.shields.io/badge/-VS%20Code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![Hyper](https://img.shields.io/badge/-Hyper-000000?style=flat&logo=hyper&logoColor=ffffff)
+![Brave](https://img.shields.io/badge/-Brave-ff6324?style=flat&logo=brave&logoColor=ffffff)
 
-<!-- ### 🌱 Currently learning:
+### 🌱 Currently learning:
 
 ![MachineLearning](https://img.shields.io/badge/-🤖%20MachineLearning-0790C0?style=flat) -->
 
