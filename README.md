@@ -32,28 +32,15 @@ Being able to think of ways to solve a problem and create things useful for othe
 
 ![Linux](https://img.shields.io/badge/-Linux-185886?style=flat&logo=linux&logoColor=ffffff)
 ![Raspberry](https://img.shields.io/badge/-RaspberryPi-CD2355?style=flat&logo=raspberrypi&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)
-![SSH](https://img.shields.io/badge/-SSH-5391FE?style=flat&logo=powershell&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logo=docker&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff)
-
-### 📚 Courses that I enjoyed and recommend:
-
-<a href="https://missing.csail.mit.edu/" target="blank">CS Missing Semester - MIT</a> <br/>
-<a href="https://www.coursera.org/learn/machine-learning" target="blank">Machine Learning - Stanford University</a> <br/>
-<a href="https://justjavascript.com/" target="blank">Just JavaScript - Dan Abramov</a> <br/>
-<a href="https://javascript30.com/" target="blank">JavaScript30 - Wes Bos</a> <br/>
-<br/>
 
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/wszczawinski" targer="blank">
   <img src="https://img.shields.io/badge/-LinkedIn-success?style=flat&logo=linkedin&logoColor=ffffff" />
 </a>
-<a href="mailto:szczawinski.wojtek@gmail.com">
-  <img src="https://img.shields.io/badge/-Mail-success?style=flat&logo=gmail&logoColor=ffffff" />
-</a>
-<a href="https://https://wszczawinski.github.io//">
+<a href="https://wszczawinski.github.io//" targer="blank">
   <img src="https://img.shields.io/badge/-Website-success?style=flat&logo=brave&logoColor=ffffff" />
 </a>
 
@@ -68,11 +55,3 @@ Being able to think of ways to solve a problem and create things useful for othe
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wszczawinski&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css,sass,matlab,shell&hide_title=True&line_height=27" alt="Wojtek's GitHub Stats" />
 </a>
-
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
